@@ -3,13 +3,17 @@
     opacity: 0;
   }
   
-.skills{
+.skills{background-position: center;
+
+    background-attachment: fixed;
     background-image: url("https://www.artsprofessional.co.uk/sites/artsprofessional.co.uk/files/taa_-_experience_1100x700.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
 }
 .contact{
+    background-position: center;
+    background-attachment: fixed;
     background-image: url("https://assets.entrepreneur.com/content/3x2/2000/1591907101-GettyImages-1141322585.jpg?width=700&crop=2:1");
     background-repeat: no-repeat;
     background-size: cover;
